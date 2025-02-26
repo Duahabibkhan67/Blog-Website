@@ -44,7 +44,7 @@ export default function Header(){
 <Link href="/faculty"><button className="text-xl   hover:scale-110"> <b>Pages</b></button></Link>
 
 
-<Link href="/apply"><button className="text-xl  hover:scale-110 "><b>Sign up</b></button></Link>
+<Link href="/contact"><button className="text-xl  hover:scale-110 "><b>Sign up</b></button></Link>
 <Link href="/contact"><button className="text-xl    hover:scale-110 "><b >Contact</b></button></Link>
 </div>
 
