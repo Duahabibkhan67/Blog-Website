@@ -42,7 +42,7 @@ const Card = () => {
                 </p>
                
                 <button
-                  onClick={() => handleReadMore(post.id)}
+                
                   className="mt-4 inline-block px-4 py-2 rounded tracking-wider bg-blue-950 hover:bg-blue-900 text-white text-[13px] transition-transform transform hover:scale-105"
                 >
                   Read More
